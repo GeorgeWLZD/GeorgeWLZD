@@ -4,7 +4,7 @@
 
 I am committed to leveraging my data science knowledge, analytical and statistical skills to drive impactful research and business decisions. Connect with me to explore how we can transform your data into valuable insights.
 
-Contact to me through my Gmail or Linkedin:
+Contact me through my Gmail or Linkedin:
 </p>
 
   <a href="mailto:georgezevallosdurand@gmail.com?subject=Work%20From%20" target="_blank">
