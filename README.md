@@ -1,5 +1,4 @@
-## George Zevallos | Data Scientist <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
-
+## George Zevallos | Data Scientist
 <p >I have more than 3 years of extensive experience in statistical consulting, I specialize in providing robust data-driven solutions across diverse research fields, including Psychology, Economics, Business, and Medicine. My expertise encompasses a wide array of advanced statistical methodologies and machine learning algorithms, ensuring precise and actionable insights for complex research and business questions.
 
 I am committed to leveraging my data science knowledge, analytical and statistical skills to drive impactful research and business decisions. Connect with me to explore how we can transform your data into valuable insights.
