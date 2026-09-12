@@ -9,9 +9,6 @@ Resuelvo problemas de negocio sobre <b>inferencia causal, business analytics, di
 </p>
 
 <p align="left">
-  <a href="mailto:georgezevallosdurand@gmail.com?subject=Work%20From%20" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
   <a href="https://www.linkedin.com/in/george-zevallos" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
